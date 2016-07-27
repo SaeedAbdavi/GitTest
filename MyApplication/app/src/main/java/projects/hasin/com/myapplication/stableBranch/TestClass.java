@@ -1,4 +1,4 @@
-package projects.hasin.com.myapplication.source;
+package projects.hasin.com.myapplication.stableBranch;
 
 /**
  * Created by abdavi on 7/27/2016.
